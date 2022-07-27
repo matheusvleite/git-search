@@ -12,6 +12,6 @@ Projeto desenvolvido e inspirado nas aulas de React do Hiring coders... Onde faz
 
 # 🚀 Executando Projeto
 
-# No diretório do projeto, você pode executar:
+## No diretório do projeto, você pode executar:
 
 ### npm start
