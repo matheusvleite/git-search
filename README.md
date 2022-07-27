@@ -6,9 +6,9 @@ Projeto desenvolvido e inspirado no projeto do Hiring coders... Onde faz o consu
 
 # As seguintes tecnologias foram usadas na construção do projeto:
 
-# ReactJS
-# CSS
-# HTML
+## ReactJS
+## CSS
+## HTML
 
 # 🚀 Executando Projeto
 
