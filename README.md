@@ -10,7 +10,7 @@ Projeto desenvolvido e inspirado no projeto do Hiring coders... Onde faz o consu
 # CSS
 # HTML
 
-#🚀 Executando Projeto
+# 🚀 Executando Projeto
 
 # No diretório do projeto, você pode executar:
 
