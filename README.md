@@ -1,6 +1,6 @@
 # GIT SEARCH
 # 💻 Sobre o projeto
-Projeto desenvolvido e inspirado no projeto do Hiring coders... Onde faz o consumo da API do github para buscar os repositórios de um user.
+Projeto desenvolvido e inspirado nas aulas de React do Hiring coders... Onde faz o consumo da API do github para buscar os repositórios de um user.
 
 # 🛠 Tecnologias
 
