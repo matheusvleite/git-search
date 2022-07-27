@@ -1,4 +1,4 @@
-#GIT SEARCH
+# GIT SEARCH
 # 💻 Sobre o projeto
 Projeto desenvolvido e inspirado no projeto do Hiring coders... Onde faz o consumo da API do github para buscar os repositórios de um user.
 
@@ -6,14 +6,12 @@ Projeto desenvolvido e inspirado no projeto do Hiring coders... Onde faz o consu
 
 # As seguintes tecnologias foram usadas na construção do projeto:
 
-React
-Typescript
-Storybook
-Styled Components
-Redux
-SweetAlert2
+# ReactJS
+# CSS
+# HTML
+
 #🚀 Executando Projeto
 
-#No diretório do projeto, você pode executar:
+# No diretório do projeto, você pode executar:
 
 ### npm start
